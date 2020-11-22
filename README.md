@@ -1,1 +1,1 @@
-https://code-recursion.github.io/slot-machine/
+https://code-recursion.github.io/frisk/
