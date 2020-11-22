@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frisk/static/css/main.1127ccc9.chunk.css",
+    "main.js": "/frisk/static/js/main.81471aa2.chunk.js",
+    "main.js.map": "/frisk/static/js/main.81471aa2.chunk.js.map",
+    "runtime-main.js": "/frisk/static/js/runtime-main.82a67fe4.js",
+    "runtime-main.js.map": "/frisk/static/js/runtime-main.82a67fe4.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/frisk/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.32606063.chunk.js": "/frisk/static/js/2.32606063.chunk.js",
+    "static/js/2.32606063.chunk.js.map": "/frisk/static/js/2.32606063.chunk.js.map",
+    "index.html": "/frisk/index.html",
+    "precache-manifest.050de93baeb415c424858e93e00c5371.js": "/frisk/precache-manifest.050de93baeb415c424858e93e00c5371.js",
+    "service-worker.js": "/frisk/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/frisk/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.1127ccc9.chunk.css.map": "/frisk/static/css/main.1127ccc9.chunk.css.map",
+    "static/js/2.32606063.chunk.js.LICENSE.txt": "/frisk/static/js/2.32606063.chunk.js.LICENSE.txt",
+    "static/media/covid-logo.png": "/frisk/static/media/covid-logo.3cfa25ed.png",
+    "static/media/safety.jpg": "/frisk/static/media/safety.4f8369a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a67fe4.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.32606063.chunk.js",
+    "static/css/main.1127ccc9.chunk.css",
+    "static/js/main.81471aa2.chunk.js"
+  ]
+}
